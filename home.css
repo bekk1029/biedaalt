@@ -339,6 +339,13 @@ color: #0D1317;
     display: flex;
     justify-content: space-between;
 }
+#fifth nav>img {
+    position: absolute;
+    width: 179px;
+    height: 178px;
+    left: 1970px;
+    top: 3299px;
+}
 #fifth nav ul{    
     display: flex;
     list-style: none;
