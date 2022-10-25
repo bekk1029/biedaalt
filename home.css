@@ -343,7 +343,7 @@ color: #0D1317;
     position: absolute;
     width: 179px;
     height: 178px;
-    left: 1620px;
+    left: 1200px;
     top: 3306px;
 }
 #fifth nav ul{    
@@ -403,7 +403,7 @@ color: #0D1317;
 }
 #img-1 {
     position: absolute;
-    background-image: url(/images/team.png);
+    background-image: url(images/team.png);
     width: 472px;
     height: 466px;
 }
@@ -434,7 +434,7 @@ color: #0D1317;
     margin: 0px auto;
 }
 #a6 {
-    background: url(/images/experience-image.png)  no-repeat;
+    background: url(images/experience-image.png)  no-repeat;
 }
 #b6 {
     background-color:  rgba(245, 138, 7, 1);
@@ -512,7 +512,7 @@ color: #0D1317;
 }
 #video {
     position: relative;
-    background-image: url(/images/video-image.png);
+    background-image: url(images/video-image.png);
     width: 620px;
     height: 501px;
 }
