@@ -343,8 +343,8 @@ color: #0D1317;
     position: absolute;
     width: 179px;
     height: 178px;
-    left: 1970px;
-    top: 3299px;
+    left: 1620px;
+    top: 3306px;
 }
 #fifth nav ul{    
     display: flex;
@@ -526,12 +526,21 @@ color: #0D1317;
     bottom: 40px;
     left: 40px;
 }
+#button>img:hover {
+    background-color: #1D3444;
+    opacity: 0.8;
+
+}
+
 #button h4 {
     font-size: 18px;
     position: absolute;
     color: white;
     bottom: 57px;
     left: 108px;
+}
+#button h4:hover {
+    color:#f58a07;
 }
 
 .section-8{
