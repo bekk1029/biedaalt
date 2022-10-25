@@ -1,30 +1,4 @@
-.navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-}
-.navigation ul{
-    display: flex;
-    gap: 32px;
-    align-items: center;
-}
-.navigation ul li{
-    
-}
 
-button {
-    width: 173px;
-    height: 52px;
-     margin-top: 0px;
-     font-size: 16px;
-     color: #F58A07;
-     background: rgba(245,138,7,0.1);
-     border-radius: 20px/20px;
-     text-align: center;
-     border: none;
-     cursor: pointer;
-}
 
 .blog-header {
     background: #DCEAF5;
@@ -76,7 +50,9 @@ button {
     color: #F58A07;
     margin-bottom: 161px;
 }
-.internal a ::after {
+.internal a::after {
+    
+    content: "\2192";
     
 }
 .header-image {
