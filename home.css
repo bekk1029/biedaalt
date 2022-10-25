@@ -512,7 +512,7 @@ color: #0D1317;
 }
 #video {
     position: relative;
-    background-image: url(images/video-image.png);
+    background-image: url(/images/video-image.png);
     width: 620px;
     height: 501px;
 }
