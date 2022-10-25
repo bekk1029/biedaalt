@@ -1,4 +1,4 @@
 # biedaalt]
 
 baljinnyam
-https://bekk1029.github.io/biedaalt/
+https://github.com/bekk1029/biedaalt.git
